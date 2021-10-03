@@ -1,0 +1,26 @@
+.ContainerTop {
+    display: flex;
+    background-color: rgb(90, 92, 94);
+    
+  }
+  
+  .ContainerTop > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    
+  }
+  .ContainerTopRight {
+    display: flex;
+    background-color: rgb(123, 125, 128);
+    justify-content: end;
+    align-items: flex-end;
+  }
+  .ContainerTopRight> div {
+  
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;  
+  }
